@@ -31,3 +31,15 @@ body {
     text-wrap: balance;
   }
 }
+
+.text-shadow-lg {
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.87);
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+::-webkit-scrollbar-thumb {
+  background: grey;
+  border-radius: 5px;
+}
